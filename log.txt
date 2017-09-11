@@ -95,3 +95,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0892. ✅ test: add unit test for quiz service
 0625. 🐛 fix: handle 500 error in quiz API
+0049. 🐛 fix: handle 500 error in quiz API
