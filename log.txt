@@ -111,3 +111,4 @@
 0990. ♻️ chore: rename env.example
 0644. 🎨 style: apply consistent indentation
 0786. ✨ feat: enable dark mode toggle
+0948. 🐛 fix: fix broken CSS in mobile view
