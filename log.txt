@@ -113,3 +113,4 @@
 0786. ✨ feat: enable dark mode toggle
 0948. 🐛 fix: fix broken CSS in mobile view
 0740. 🐛 fix: resolve issue with date parsing
+0481. ✅ test: add unit test for quiz service
