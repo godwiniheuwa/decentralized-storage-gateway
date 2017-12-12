@@ -121,3 +121,4 @@
 0088. 📚 docs: add API usage examples
 0523. ♻️ chore: bump dependencies
 0217. 🚀 perf: reduce image load time
+0405. ✅ test: mock database connection in test suite
