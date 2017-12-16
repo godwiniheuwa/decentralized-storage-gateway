@@ -122,3 +122,4 @@
 0523. ♻️ chore: bump dependencies
 0217. 🚀 perf: reduce image load time
 0405. ✅ test: mock database connection in test suite
+0505. ♻️ chore: add GitHub actions badge
