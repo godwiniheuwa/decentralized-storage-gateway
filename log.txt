@@ -128,3 +128,4 @@
 0634. 🎨 style: reformat files with black
 0438. ♻️ chore: bump dependencies
 0870. ♻️ chore: clean up unused files
+0854. ♻️ chore: rename env.example
