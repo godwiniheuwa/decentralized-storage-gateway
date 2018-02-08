@@ -139,3 +139,4 @@
 0852. ✨ feat: enable dark mode toggle
 0056. ♻️ chore: rename env.example
 0998. 🐛 fix: fix null pointer exception on login
+0512. 🚀 perf: reduce image load time
