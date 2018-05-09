@@ -159,3 +159,4 @@
 0076. 🎨 style: reformat files with black
 0118. 🚀 perf: reduce image load time
 0709. ♻️ chore: bump dependencies
+0292. 📚 docs: clarify environment setup
