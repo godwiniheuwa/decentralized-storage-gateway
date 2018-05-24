@@ -164,3 +164,4 @@
 0912. 📚 docs: document token refresh logic
 0024. 📚 docs: write FAQ section
 0097. 🐛 fix: handle 500 error in quiz API
+0770. ♻️ chore: rename env.example
