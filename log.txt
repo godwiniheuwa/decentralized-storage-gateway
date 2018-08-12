@@ -187,3 +187,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0162. ♻️ chore: add GitHub actions badge
 0459. 🔧 refactor: organize models into subfolders
+0677. 📚 docs: add API usage examples
