@@ -216,3 +216,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0994. 🚀 perf: reduce image load time
 0868. ✅ test: add unit test for quiz service
+0362. 📚 docs: add API usage examples
