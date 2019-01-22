@@ -252,3 +252,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0205. 📚 docs: update README with setup steps
 0894. ✅ test: add integration test for /submit endpoint
+0012. 🚀 perf: cache repeated calculations
