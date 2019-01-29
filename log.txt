@@ -253,3 +253,4 @@
 0205. 📚 docs: update README with setup steps
 0894. ✅ test: add integration test for /submit endpoint
 0012. 🚀 perf: cache repeated calculations
+0460. 📚 docs: write FAQ section
