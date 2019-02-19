@@ -259,3 +259,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0407. 🚀 perf: cache repeated calculations
 0950. 🎨 style: reformat files with black
+0891. ✨ feat: create admin dashboard
