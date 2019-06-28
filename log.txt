@@ -292,3 +292,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0717. 🔧 refactor: refactor quiz grading logic
 0831. 📚 docs: clarify environment setup
+0132. ✅ test: add unit test for quiz service
