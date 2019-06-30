@@ -294,3 +294,4 @@
 0831. 📚 docs: clarify environment setup
 0132. ✅ test: add unit test for quiz service
 0895. ✨ feat: support email verification
+0529. 📚 docs: write FAQ section
