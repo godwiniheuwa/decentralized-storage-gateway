@@ -311,3 +311,4 @@
 0769. ✨ feat: create admin dashboard
 0486. ✨ feat: add export to CSV option
 0029. 🚀 perf: lazy-load components
+0675. 🔧 refactor: organize models into subfolders
