@@ -313,3 +313,4 @@
 0029. 🚀 perf: lazy-load components
 0675. 🔧 refactor: organize models into subfolders
 0588. 🔧 refactor: organize models into subfolders
+0707. 🎨 style: apply consistent indentation
