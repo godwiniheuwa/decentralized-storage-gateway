@@ -326,3 +326,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0334. 🚀 perf: cache repeated calculations
 0306. 🎨 style: apply consistent indentation
+0969. ✨ feat: create admin dashboard
