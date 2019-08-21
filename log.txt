@@ -327,3 +327,4 @@
 0334. 🚀 perf: cache repeated calculations
 0306. 🎨 style: apply consistent indentation
 0969. ✨ feat: create admin dashboard
+0920. 🔧 refactor: organize models into subfolders
