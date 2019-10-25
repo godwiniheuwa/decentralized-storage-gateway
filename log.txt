@@ -353,3 +353,4 @@
 0622. 🎨 style: apply consistent indentation
 0885. ♻️ chore: update .gitignore
 0582. ✨ feat: add export to CSV option
+0651. ✨ feat: enable dark mode toggle
