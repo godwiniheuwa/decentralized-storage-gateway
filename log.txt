@@ -378,3 +378,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0678. ✨ feat: add user authentication
 0960. ✅ test: increase coverage on auth module
+0033. 🎨 style: apply consistent indentation
