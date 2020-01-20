@@ -383,3 +383,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0925. ✨ feat: add export to CSV option
 0177. 📚 docs: add API usage examples
+0019. ✨ feat: enable dark mode toggle
