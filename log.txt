@@ -384,3 +384,4 @@
 0925. ✨ feat: add export to CSV option
 0177. 📚 docs: add API usage examples
 0019. ✨ feat: enable dark mode toggle
+0711. 🐛 fix: fix broken CSS in mobile view
