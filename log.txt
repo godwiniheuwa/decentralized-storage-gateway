@@ -415,3 +415,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0282. 🔧 refactor: remove redundant code blocks
 0749. ✨ feat: support email verification
+0847. ♻️ chore: clean up unused files
