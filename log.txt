@@ -418,3 +418,4 @@
 0847. ♻️ chore: clean up unused files
 0789. ✨ feat: create admin dashboard
 0392. 🎨 style: remove trailing whitespace
+0919. 🚀 perf: optimize database query for quiz results
