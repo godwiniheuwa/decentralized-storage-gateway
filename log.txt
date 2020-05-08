@@ -421,3 +421,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0954. 🚀 perf: cache repeated calculations
 0858. ♻️ chore: clean up unused files
+0533. ♻️ chore: add GitHub actions badge
