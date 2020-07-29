@@ -460,3 +460,4 @@
 0136. 🚀 perf: lazy-load components
 0408. ♻️ chore: add GitHub actions badge
 0413. ✅ test: add integration test for /submit endpoint
+0025. 🚀 perf: optimize database query for quiz results
