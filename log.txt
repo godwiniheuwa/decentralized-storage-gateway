@@ -479,3 +479,4 @@
 0238. 🎨 style: apply consistent indentation
 0178. ✨ feat: support email verification
 0940. 📚 docs: document token refresh logic
+0089. 🔧 refactor: remove redundant code blocks
