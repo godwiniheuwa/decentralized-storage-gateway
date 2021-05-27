@@ -556,3 +556,4 @@
 0716. ✨ feat: implement quiz timer feature
 0278. 🔧 refactor: clean up auth middleware
 0743. 🎨 style: apply consistent indentation
+0689. 🎨 style: reformat files with black
