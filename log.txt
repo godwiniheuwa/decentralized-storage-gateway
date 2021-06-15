@@ -559,3 +559,4 @@
 0689. 🎨 style: reformat files with black
 0878. 🔧 refactor: split large controller into smaller functions
 0266. 🔧 refactor: remove redundant code blocks
+0762. 🚀 perf: lazy-load components
