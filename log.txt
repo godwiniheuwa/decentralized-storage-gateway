@@ -581,3 +581,4 @@
 0370. 🚀 perf: reduce image load time
 0030. 🐛 fix: fix null pointer exception on login
 0906. 📚 docs: add API usage examples
+0981. 🚀 perf: lazy-load components
