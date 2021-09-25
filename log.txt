@@ -592,3 +592,4 @@
 0390. 🎨 style: standardize quote style
 0745. ✅ test: add unit test for quiz service
 0995. ✅ test: mock database connection in test suite
+0041. 🐛 fix: fix broken CSS in mobile view
