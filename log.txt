@@ -595,3 +595,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0368. 🚀 perf: lazy-load components
 0330. ✅ test: test user registration edge cases
+0250. 📚 docs: update README with setup steps
