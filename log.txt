@@ -597,3 +597,4 @@
 0330. ✅ test: test user registration edge cases
 0250. 📚 docs: update README with setup steps
 0328. 🐛 fix: resolve issue with date parsing
+0780. 📚 docs: add API usage examples
