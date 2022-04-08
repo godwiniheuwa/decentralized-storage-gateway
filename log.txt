@@ -659,3 +659,4 @@
 0513. ♻️ chore: bump dependencies
 0978. 🐛 fix: prevent crash on empty input
 0814. 🔧 refactor: remove redundant code blocks
+0068. 🐛 fix: fix null pointer exception on login
