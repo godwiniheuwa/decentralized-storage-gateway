@@ -673,3 +673,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0967. ♻️ chore: add GitHub actions badge
 0468. 📚 docs: update README with setup steps
+0373. 📚 docs: document token refresh logic
