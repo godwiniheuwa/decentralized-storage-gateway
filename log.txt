@@ -691,3 +691,4 @@
 0165. 🎨 style: remove trailing whitespace
 0639. 🐛 fix: correct typo in registration form
 0650. ✅ test: add unit test for quiz service
+0353. ♻️ chore: rename env.example
