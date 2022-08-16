@@ -701,3 +701,4 @@
 0023. 📚 docs: clarify environment setup
 0702. ✨ feat: add user authentication
 0200. 🐛 fix: handle 500 error in quiz API
+0120. ✅ test: add integration test for /submit endpoint
