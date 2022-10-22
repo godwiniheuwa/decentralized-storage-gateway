@@ -723,3 +723,4 @@
 0586. 🎨 style: remove trailing whitespace
 0147. ♻️ chore: bump dependencies
 0957. 🐛 fix: fix null pointer exception on login
+0351. ✨ feat: add export to CSV option
