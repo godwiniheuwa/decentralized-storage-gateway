@@ -735,3 +735,4 @@
 0528. ♻️ chore: clean up unused files
 0478. 🐛 fix: resolve issue with date parsing
 0291. 📚 docs: write FAQ section
+0808. 🚀 perf: optimize database query for quiz results
