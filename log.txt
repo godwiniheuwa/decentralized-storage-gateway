@@ -1070,3 +1070,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0805. ♻️ chore: add GitHub actions badge
 0103. 🔧 refactor: remove redundant code blocks
+0485. 📚 docs: update README with setup steps
