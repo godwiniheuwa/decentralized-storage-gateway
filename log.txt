@@ -1081,3 +1081,4 @@
 0313. 🎨 style: apply consistent indentation
 0114. ♻️ chore: update .gitignore
 0914. ✅ test: test user registration edge cases
+0732. ♻️ chore: add GitHub actions badge
