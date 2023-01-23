@@ -1087,3 +1087,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0473. 📚 docs: write FAQ section
 0224. 🐛 fix: fix broken CSS in mobile view
+0738. 🐛 fix: prevent crash on empty input
