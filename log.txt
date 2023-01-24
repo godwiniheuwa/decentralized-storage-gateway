@@ -1089,3 +1089,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0738. 🐛 fix: prevent crash on empty input
 0982. 🚀 perf: lazy-load components
+0596. ♻️ chore: update .gitignore
