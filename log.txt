@@ -1095,3 +1095,4 @@
 0615. 🐛 fix: correct typo in registration form
 0128. ♻️ chore: rename env.example
 0786. ✨ feat: enable dark mode toggle
+0767. 🔧 refactor: remove redundant code blocks
