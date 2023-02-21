@@ -1109,3 +1109,4 @@
 0524. ♻️ chore: rename env.example
 0575. ✅ test: add unit test for quiz service
 0915. 🚀 perf: cache repeated calculations
+0200. 🐛 fix: handle 500 error in quiz API
