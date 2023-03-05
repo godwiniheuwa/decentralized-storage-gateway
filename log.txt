@@ -1121,3 +1121,4 @@
 0107. 🐛 fix: prevent crash on empty input
 1000. ✅ test: increase coverage on auth module
 0917. ✅ test: add integration test for /submit endpoint
+0031. 📚 docs: document token refresh logic
