@@ -1141,3 +1141,4 @@
 0205. 📚 docs: update README with setup steps
 0188. 🎨 style: apply consistent indentation
 0891. ✨ feat: create admin dashboard
+0875. ✅ test: increase coverage on auth module
