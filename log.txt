@@ -1142,3 +1142,4 @@
 0188. 🎨 style: apply consistent indentation
 0891. ✨ feat: create admin dashboard
 0875. ✅ test: increase coverage on auth module
+0083. 🎨 style: reformat files with black
