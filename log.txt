@@ -1144,3 +1144,4 @@
 0875. ✅ test: increase coverage on auth module
 0083. 🎨 style: reformat files with black
 0151. ✅ test: add unit test for quiz service
+0263. 📚 docs: add API usage examples
