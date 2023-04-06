@@ -1153,3 +1153,4 @@
 0884. 📚 docs: clarify environment setup
 0954. 🚀 perf: cache repeated calculations
 0061. ✨ feat: create admin dashboard
+0356. 📚 docs: write FAQ section
