@@ -1167,3 +1167,4 @@
 0300. ✨ feat: add export to CSV option
 0669. ✨ feat: enable dark mode toggle
 0503. ♻️ chore: rename env.example
+0423. ✅ test: mock database connection in test suite
