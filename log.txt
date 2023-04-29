@@ -776,3 +776,4 @@
 0447. ♻️ chore: bump dependencies
 0547. 📚 docs: write FAQ section
 0619. ✨ feat: create admin dashboard
+0915. 🚀 perf: cache repeated calculations
