@@ -1198,3 +1198,4 @@
 0992. ♻️ chore: clean up unused files
 0443. 🎨 style: standardize quote style
 0336. ✨ feat: add export to CSV option
+0074. ♻️ chore: add GitHub actions badge
