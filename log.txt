@@ -1247,3 +1247,4 @@
 0665. ♻️ chore: update .gitignore
 0765. ♻️ chore: clean up unused files
 0627. 📚 docs: document token refresh logic
+0701. 🔧 refactor: clean up auth middleware
