@@ -1249,3 +1249,4 @@
 0627. 📚 docs: document token refresh logic
 0701. 🔧 refactor: clean up auth middleware
 0297. 🎨 style: remove trailing whitespace
+0353. ♻️ chore: rename env.example
