@@ -1251,3 +1251,4 @@
 0297. 🎨 style: remove trailing whitespace
 0353. ♻️ chore: rename env.example
 0926. 🔧 refactor: organize models into subfolders
+0412. ✅ test: increase coverage on auth module
