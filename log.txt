@@ -1265,3 +1265,4 @@
 0648. ♻️ chore: bump dependencies
 0228. 🔧 refactor: remove redundant code blocks
 0611. ✅ test: test user registration edge cases
+0745. ✅ test: add unit test for quiz service
