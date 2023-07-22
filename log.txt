@@ -1269,3 +1269,4 @@
 0558. ✨ feat: enable dark mode toggle
 0197. 📚 docs: update README with setup steps
 0150. 🎨 style: remove trailing whitespace
+0944. ✨ feat: add user authentication
