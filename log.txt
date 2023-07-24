@@ -1274,3 +1274,4 @@
 0934. ✨ feat: support email verification
 0511. 🐛 fix: fix broken CSS in mobile view
 0015. ✨ feat: implement quiz timer feature
+0433. 🐛 fix: prevent crash on empty input
