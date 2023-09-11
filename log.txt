@@ -1307,3 +1307,4 @@
 0024. 📚 docs: write FAQ section
 0172. 📚 docs: add API usage examples
 0245. 🐛 fix: resolve issue with date parsing
+0398. 🚀 perf: cache repeated calculations
