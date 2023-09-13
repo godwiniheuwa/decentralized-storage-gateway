@@ -1308,3 +1308,4 @@
 0172. 📚 docs: add API usage examples
 0245. 🐛 fix: resolve issue with date parsing
 0398. 🚀 perf: cache repeated calculations
+0798. 🚀 perf: reduce image load time
