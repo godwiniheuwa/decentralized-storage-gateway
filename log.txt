@@ -811,3 +811,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0734. ✨ feat: add export to CSV option
 0452. ✨ feat: implement quiz timer feature
+0768. 🎨 style: remove trailing whitespace
