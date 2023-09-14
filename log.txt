@@ -813,3 +813,4 @@
 0452. ✨ feat: implement quiz timer feature
 0768. 🎨 style: remove trailing whitespace
 0886. ♻️ chore: clean up unused files
+0380. 🐛 fix: fix null pointer exception on login
