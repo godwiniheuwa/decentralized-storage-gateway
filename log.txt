@@ -816,3 +816,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0779. 🔧 refactor: organize models into subfolders
 0821. ✅ test: add integration test for /submit endpoint
+0818. 🔧 refactor: remove redundant code blocks
