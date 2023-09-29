@@ -1328,3 +1328,4 @@
 0679. ♻️ chore: bump dependencies
 0607. 🐛 fix: prevent crash on empty input
 0734. ✨ feat: add export to CSV option
+0625. 🐛 fix: handle 500 error in quiz API
