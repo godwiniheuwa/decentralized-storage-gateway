@@ -1340,3 +1340,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0171. 🐛 fix: fix broken CSS in mobile view
 0459. 🔧 refactor: organize models into subfolders
+0264. 🚀 perf: optimize database query for quiz results
