@@ -1358,3 +1358,4 @@
 0964. ♻️ chore: clean up unused files
 0908. ♻️ chore: bump dependencies
 0234. ♻️ chore: rename env.example
+0851. ✅ test: mock database connection in test suite
