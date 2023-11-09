@@ -1365,3 +1365,4 @@
 0576. ♻️ chore: update .gitignore
 0666. 🐛 fix: fix broken CSS in mobile view
 0076. 🎨 style: reformat files with black
+0653. 🐛 fix: prevent crash on empty input
