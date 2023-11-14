@@ -1369,3 +1369,4 @@
 0141. 📚 docs: document token refresh logic
 0781. 🚀 perf: reduce image load time
 0438. ♻️ chore: bump dependencies
+0291. 📚 docs: write FAQ section
