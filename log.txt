@@ -1374,3 +1374,4 @@
 0928. 🎨 style: apply consistent indentation
 0717. 🔧 refactor: refactor quiz grading logic
 0823. ✨ feat: add user authentication
+0789. ✨ feat: create admin dashboard
