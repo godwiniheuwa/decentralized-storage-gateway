@@ -19,3 +19,4 @@
 0572. ✨ feat: add user authentication
 0405. ✅ test: mock database connection in test suite
 0597. 🚀 perf: cache repeated calculations
+0861. ♻️ chore: clean up unused files
