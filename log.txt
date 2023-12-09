@@ -831,3 +831,4 @@
 0850. ♻️ chore: rename env.example
 0972. 🔧 refactor: refactor quiz grading logic
 0451. ✨ feat: support email verification
+0699. 🎨 style: standardize quote style
