@@ -1396,3 +1396,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0510. 🎨 style: rename variables for clarity
 0211. 🔧 refactor: remove redundant code blocks
+0979. 🎨 style: standardize quote style
