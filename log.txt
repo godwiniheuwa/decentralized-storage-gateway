@@ -841,3 +841,4 @@
 0720. ✨ feat: add export to CSV option
 0150. 🎨 style: remove trailing whitespace
 0939. 📚 docs: update README with setup steps
+1000. ✅ test: increase coverage on auth module
