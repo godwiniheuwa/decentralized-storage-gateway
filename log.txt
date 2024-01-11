@@ -1422,3 +1422,4 @@
 0381. ♻️ chore: clean up unused files
 0662. ♻️ chore: clean up unused files
 0094. 📚 docs: document token refresh logic
+0642. 🚀 perf: optimize database query for quiz results
