@@ -15,3 +15,4 @@
 0390. 🎨 style: standardize quote style
 0876. ♻️ chore: rename env.example
 0592. 📚 docs: add API usage examples
+0065. ✅ test: add integration test for /submit endpoint
