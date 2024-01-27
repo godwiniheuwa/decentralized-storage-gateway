@@ -1432,3 +1432,4 @@
 0337. 📚 docs: document token refresh logic
 0238. 🎨 style: apply consistent indentation
 0121. ✨ feat: support email verification
+0847. ♻️ chore: clean up unused files
