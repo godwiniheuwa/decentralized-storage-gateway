@@ -1459,3 +1459,4 @@
 0174. 📚 docs: clarify environment setup
 0996. ✅ test: test user registration edge cases
 0820. 📚 docs: add API usage examples
+0858. ♻️ chore: clean up unused files
