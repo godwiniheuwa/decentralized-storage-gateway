@@ -1461,3 +1461,4 @@
 0820. 📚 docs: add API usage examples
 0858. ♻️ chore: clean up unused files
 0746. ♻️ chore: add GitHub actions badge
+0112. ✨ feat: enable dark mode toggle
