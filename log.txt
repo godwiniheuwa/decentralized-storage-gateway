@@ -1462,3 +1462,4 @@
 0858. ♻️ chore: clean up unused files
 0746. ♻️ chore: add GitHub actions badge
 0112. ✨ feat: enable dark mode toggle
+0958. 🐛 fix: prevent crash on empty input
