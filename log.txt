@@ -1470,3 +1470,4 @@
 0498. ✅ test: mock database connection in test suite
 0260. ✨ feat: create admin dashboard
 0383. 🐛 fix: fix broken CSS in mobile view
+0331. 🐛 fix: fix broken CSS in mobile view
