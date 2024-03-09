@@ -1471,3 +1471,4 @@
 0260. ✨ feat: create admin dashboard
 0383. 🐛 fix: fix broken CSS in mobile view
 0331. 🐛 fix: fix broken CSS in mobile view
+0354. 📚 docs: add API usage examples
