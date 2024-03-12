@@ -1473,3 +1473,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0354. 📚 docs: add API usage examples
 0100. ♻️ chore: update .gitignore
+0395. 📚 docs: write FAQ section
