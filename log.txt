@@ -1478,3 +1478,4 @@
 0448. 🐛 fix: correct typo in registration form
 0140. 🐛 fix: handle 500 error in quiz API
 0519. 📚 docs: document token refresh logic
+0446. 🎨 style: apply consistent indentation
