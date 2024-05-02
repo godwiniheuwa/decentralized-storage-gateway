@@ -1533,3 +1533,4 @@
 0886. ♻️ chore: clean up unused files
 0640. ♻️ chore: bump dependencies
 0541. 🐛 fix: correct typo in registration form
+0396. 🔧 refactor: split large controller into smaller functions
