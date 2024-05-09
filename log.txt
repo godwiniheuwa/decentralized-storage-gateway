@@ -1535,3 +1535,4 @@
 0541. 🐛 fix: correct typo in registration form
 0396. 🔧 refactor: split large controller into smaller functions
 0363. 📚 docs: clarify environment setup
+0813. 🔧 refactor: organize models into subfolders
