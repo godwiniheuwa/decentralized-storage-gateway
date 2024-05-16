@@ -1538,3 +1538,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0623. 🎨 style: standardize quote style
 0947. 📚 docs: write FAQ section
+0997. ✅ test: increase coverage on auth module
