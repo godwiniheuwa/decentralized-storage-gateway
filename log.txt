@@ -1539,3 +1539,4 @@
 0623. 🎨 style: standardize quote style
 0947. 📚 docs: write FAQ section
 0997. ✅ test: increase coverage on auth module
+0736. 🐛 fix: fix null pointer exception on login
