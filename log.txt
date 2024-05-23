@@ -1548,3 +1548,4 @@
 0132. ✅ test: add unit test for quiz service
 0115. 🚀 perf: reduce image load time
 0368. 🚀 perf: lazy-load components
+0543. ✨ feat: support email verification
