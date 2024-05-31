@@ -1557,3 +1557,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0602. 🔧 refactor: remove redundant code blocks
 0501. ✨ feat: add export to CSV option
+0970. ♻️ chore: update .gitignore
