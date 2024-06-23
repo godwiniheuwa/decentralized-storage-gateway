@@ -1583,3 +1583,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0521. 🎨 style: standardize quote style
 0470. 🎨 style: remove trailing whitespace
+0967. ♻️ chore: add GitHub actions badge
