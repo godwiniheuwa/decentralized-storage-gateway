@@ -1600,3 +1600,4 @@
 0161. ✨ feat: create admin dashboard
 0102. ✨ feat: support email verification
 0219. ✅ test: increase coverage on auth module
+0302. ✨ feat: implement quiz timer feature
