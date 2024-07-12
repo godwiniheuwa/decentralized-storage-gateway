@@ -904,3 +904,4 @@
 0491. 🚀 perf: lazy-load components
 0131. 📚 docs: write FAQ section
 0817. 🔧 refactor: remove redundant code blocks
+0322. 🔧 refactor: split large controller into smaller functions
