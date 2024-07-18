@@ -905,3 +905,4 @@
 0131. 📚 docs: write FAQ section
 0817. 🔧 refactor: remove redundant code blocks
 0322. 🔧 refactor: split large controller into smaller functions
+0006. 🐛 fix: prevent crash on empty input
