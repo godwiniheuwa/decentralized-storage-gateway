@@ -1608,3 +1608,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0152. ✨ feat: add user authentication
 0041. 🐛 fix: fix broken CSS in mobile view
+0948. 🐛 fix: fix broken CSS in mobile view
