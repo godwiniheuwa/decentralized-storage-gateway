@@ -915,3 +915,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0744. 🔧 refactor: remove redundant code blocks
 0365. 🚀 perf: reduce image load time
+0367. 🐛 fix: fix null pointer exception on login
