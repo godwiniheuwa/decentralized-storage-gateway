@@ -930,3 +930,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0503. ♻️ chore: rename env.example
 0141. 📚 docs: document token refresh logic
+0195. 📚 docs: clarify environment setup
