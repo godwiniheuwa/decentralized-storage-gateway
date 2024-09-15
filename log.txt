@@ -1651,3 +1651,4 @@
 0636. ✅ test: increase coverage on auth module
 0750. 🎨 style: apply consistent indentation
 0388. 🎨 style: reformat files with black
+0118. 🚀 perf: reduce image load time
