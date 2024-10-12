@@ -1682,3 +1682,4 @@
 0305. ✨ feat: enable dark mode toggle
 0943. 🎨 style: rename variables for clarity
 0506. 🐛 fix: handle 500 error in quiz API
+0866. 📚 docs: add API usage examples
