@@ -1695,3 +1695,4 @@
 0993. ✨ feat: implement quiz timer feature
 0292. 📚 docs: clarify environment setup
 0495. 🔧 refactor: remove redundant code blocks
+0821. ✅ test: add integration test for /submit endpoint
