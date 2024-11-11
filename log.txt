@@ -949,3 +949,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0414. 🔧 refactor: remove redundant code blocks
 0410. 🎨 style: reformat files with black
+0829. 🔧 refactor: organize models into subfolders
