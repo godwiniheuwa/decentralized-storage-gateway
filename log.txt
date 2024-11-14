@@ -1708,3 +1708,4 @@
 0442. 🎨 style: standardize quote style
 0899. 🚀 perf: cache repeated calculations
 0590. 🐛 fix: fix null pointer exception on login
+0595. ✨ feat: enable dark mode toggle
