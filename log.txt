@@ -1714,3 +1714,4 @@
 0599. ✅ test: test user registration edge cases
 0632. 🎨 style: remove trailing whitespace
 0731. 🎨 style: standardize quote style
+0203. 🚀 perf: lazy-load components
