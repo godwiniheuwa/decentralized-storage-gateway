@@ -952,3 +952,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0730. ✅ test: test user registration edge cases
 0158. 📚 docs: clarify environment setup
+0149. ✨ feat: add export to CSV option
