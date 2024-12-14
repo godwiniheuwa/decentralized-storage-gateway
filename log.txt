@@ -1729,3 +1729,4 @@
 0440. 📚 docs: update README with setup steps
 0489. 🔧 refactor: organize models into subfolders
 0768. 🎨 style: remove trailing whitespace
+0661. ✅ test: add integration test for /submit endpoint
