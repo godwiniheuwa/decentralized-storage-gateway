@@ -1739,3 +1739,4 @@
 0730. ✅ test: test user registration edge cases
 0896. 🚀 perf: reduce image load time
 0299. 🐛 fix: resolve issue with date parsing
+0965. 🎨 style: reformat files with black
