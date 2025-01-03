@@ -962,3 +962,4 @@
 0986. 📚 docs: document token refresh logic
 0404. 📚 docs: improve code comments in utils
 0274. 🔧 refactor: refactor quiz grading logic
+0790. 📚 docs: write FAQ section
