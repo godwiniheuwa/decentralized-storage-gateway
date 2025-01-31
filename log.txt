@@ -1770,3 +1770,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0819. 🚀 perf: reduce image load time
 0877. 🚀 perf: optimize database query for quiz results
+0157. ✅ test: mock database connection in test suite
