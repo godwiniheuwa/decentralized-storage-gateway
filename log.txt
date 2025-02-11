@@ -1781,3 +1781,4 @@
 0593. 🐛 fix: correct typo in registration form
 0957. 🐛 fix: fix null pointer exception on login
 0780. 📚 docs: add API usage examples
+0119. 📚 docs: improve code comments in utils
