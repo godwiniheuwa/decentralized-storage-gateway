@@ -1786,3 +1786,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0931. 🚀 perf: reduce image load time
 0283. ♻️ chore: add GitHub actions badge
+0551. 📚 docs: write FAQ section
