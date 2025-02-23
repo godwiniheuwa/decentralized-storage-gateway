@@ -1789,3 +1789,4 @@
 0551. 📚 docs: write FAQ section
 0092. 🚀 perf: reduce image load time
 0227. ✅ test: test user registration edge cases
+0105. 🐛 fix: correct typo in registration form
