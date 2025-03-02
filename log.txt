@@ -1799,3 +1799,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0471. ✨ feat: support email verification
 0763. 🔧 refactor: organize models into subfolders
+0265. 🎨 style: reformat files with black
