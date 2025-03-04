@@ -1802,3 +1802,4 @@
 0265. 🎨 style: reformat files with black
 0933. 📚 docs: clarify environment setup
 0833. ✨ feat: add user authentication
+0378. 🐛 fix: prevent crash on empty input
