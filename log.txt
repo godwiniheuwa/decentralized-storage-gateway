@@ -1821,3 +1821,4 @@
 0483. 📚 docs: update README with setup steps
 0393. 🚀 perf: lazy-load components
 0389. 📚 docs: improve code comments in utils
+0341. 🚀 perf: lazy-load components
