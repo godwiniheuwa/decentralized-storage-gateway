@@ -1840,3 +1840,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0342. 🚀 perf: cache repeated calculations
 0990. ♻️ chore: rename env.example
+0482. ✨ feat: add export to CSV option
