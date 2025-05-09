@@ -1864,3 +1864,4 @@
 0715. ✨ feat: create admin dashboard
 0414. 🔧 refactor: remove redundant code blocks
 0846. ✨ feat: implement quiz timer feature
+0387. ✨ feat: enable dark mode toggle
