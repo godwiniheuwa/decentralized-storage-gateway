@@ -1866,3 +1866,4 @@
 0846. ✨ feat: implement quiz timer feature
 0387. ✨ feat: enable dark mode toggle
 0583. ✅ test: increase coverage on auth module
+0876. ♻️ chore: rename env.example
