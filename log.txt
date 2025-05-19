@@ -994,3 +994,4 @@
 0106. 🎨 style: reformat files with black
 0183. 🔧 refactor: split large controller into smaller functions
 0161. ✨ feat: create admin dashboard
+0361. ✨ feat: support email verification
