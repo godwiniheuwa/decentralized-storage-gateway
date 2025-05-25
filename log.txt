@@ -1873,3 +1873,4 @@
 0904. ✨ feat: implement quiz timer feature
 0605. ✨ feat: support email verification
 0218. 🔧 refactor: clean up auth middleware
+0769. ✨ feat: create admin dashboard
