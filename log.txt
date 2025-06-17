@@ -1007,3 +1007,4 @@
 0060. ♻️ chore: clean up unused files
 0173. 🚀 perf: cache repeated calculations
 0316. 🐛 fix: fix broken CSS in mobile view
+0864. 🐛 fix: correct typo in registration form
