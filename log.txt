@@ -1893,3 +1893,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0814. 🔧 refactor: remove redundant code blocks
 0597. 🚀 perf: cache repeated calculations
+0569. 📚 docs: document token refresh logic
