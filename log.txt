@@ -1900,3 +1900,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0949. 📚 docs: write FAQ section
 0258. 🐛 fix: prevent crash on empty input
+0946. ✅ test: add unit test for quiz service
