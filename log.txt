@@ -1013,3 +1013,4 @@
 0270. ♻️ chore: rename env.example
 0357. ✅ test: add unit test for quiz service
 0612. ✅ test: test user registration edge cases
+0568. 🐛 fix: handle 500 error in quiz API
