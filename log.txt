@@ -1918,3 +1918,4 @@
 0330. ✅ test: test user registration edge cases
 0646. ✅ test: test user registration edge cases
 0706. ✨ feat: support email verification
+0897. 🐛 fix: prevent crash on empty input
