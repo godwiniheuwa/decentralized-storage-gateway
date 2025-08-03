@@ -1934,3 +1934,4 @@
 0166. 🚀 perf: cache repeated calculations
 0091. ✨ feat: add user authentication
 0974. ✨ feat: add export to CSV option
+0101. 📚 docs: clarify environment setup
