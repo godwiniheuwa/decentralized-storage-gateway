@@ -1945,3 +1945,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0774. 🔧 refactor: refactor quiz grading logic
 0198. 📚 docs: clarify environment setup
+0803. ✅ test: mock database connection in test suite
