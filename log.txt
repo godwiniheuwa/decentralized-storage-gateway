@@ -1029,3 +1029,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0402. 🎨 style: reformat files with black
 0140. 🐛 fix: handle 500 error in quiz API
+0096. 🐛 fix: prevent crash on empty input
