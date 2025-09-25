@@ -1983,3 +1983,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0352. ✨ feat: add export to CSV option
 0841. 🚀 perf: optimize database query for quiz results
+0849. 🐛 fix: correct typo in registration form
