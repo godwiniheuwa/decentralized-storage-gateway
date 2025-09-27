@@ -1985,3 +1985,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0849. 🐛 fix: correct typo in registration form
 0339. 📚 docs: update README with setup steps
+0856. 🐛 fix: fix null pointer exception on login
