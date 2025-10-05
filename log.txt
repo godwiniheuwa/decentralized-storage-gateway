@@ -1991,3 +1991,4 @@
 0146. 🎨 style: apply consistent indentation
 0185. 📚 docs: write FAQ section
 0935. 📚 docs: update README with setup steps
+0437. 📚 docs: clarify environment setup
