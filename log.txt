@@ -1995,3 +1995,4 @@
 0561. 📚 docs: write FAQ section
 0538. 🐛 fix: fix broken CSS in mobile view
 0802. 🔧 refactor: remove redundant code blocks
+0589. 🐛 fix: fix broken CSS in mobile view
