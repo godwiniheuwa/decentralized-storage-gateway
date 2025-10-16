@@ -1040,3 +1040,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0509. ♻️ chore: bump dependencies
 0255. 🔧 refactor: refactor quiz grading logic
+0835. 🐛 fix: prevent crash on empty input
