@@ -2001,3 +2001,4 @@
 0631. ✨ feat: create admin dashboard
 0526. ✨ feat: add user authentication
 0633. ✨ feat: add user authentication
+0531. 🐛 fix: prevent crash on empty input
