@@ -1047,3 +1047,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0424. ✨ feat: add user authentication
 0989. 📚 docs: write FAQ section
+0576. ♻️ chore: update .gitignore
