@@ -2049,3 +2049,4 @@
 0547. 📚 docs: write FAQ section
 0960. ✅ test: increase coverage on auth module
 0252. 🎨 style: remove trailing whitespace
+0402. 🎨 style: reformat files with black
