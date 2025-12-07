@@ -2054,3 +2054,4 @@
 0053. ✅ test: increase coverage on auth module
 0156. 🎨 style: rename variables for clarity
 0277. 🎨 style: standardize quote style
+0426. ✅ test: add integration test for /submit endpoint
